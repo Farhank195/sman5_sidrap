@@ -1,8 +1,23 @@
 @extends('component.app')
 
 @section('content')
+<div class="page-title mb-lg-4">
+
+    <nav class="breadcrumbs">
+     <div class="container">
+       <ol>
+         <li><a href="{{ route('index') }}">Home</a></li>
+         <li class="current">Profil</li>
+       </ol>
+     </div>
+   </nav>
+
+</div><!-- End Page Title -->
 <div class="container">
     <div class="row justify-content-center">
+     
+     
+    
         <div class="col-md-7 col-lg-4 mb-5 mb-lg-0 wow fadeIn">
             <div class="card border-0 shadow">
                 <img src=" img/papan depan.jpeg " alt="...">

@@ -7,7 +7,6 @@
             <ul>
                 <li><a href="{{ route('index') }}" class="{{ request()->is('index') ? 'active' : '' }}">Beranda</a></li>
                 <li><a href="{{ route('profil') }}" class="{{ request()->is('profil') ? 'active' : '' }}">Profil</a></li>
-                <li><a href="{{ route('ekskul') }}" class="{{ request()->is('ekskul') ? 'active' : '' }}">Ekstrakulikuler</a></li>
                 <li><a href="{{ route('sarana') }}" class="{{ request()->is('sarana') ? 'active' : '' }}">Sarana & Prasarana</a></li>
                 <li><a href="{{ route('kontak') }}" class="{{ request()->is('kontak') ? 'active' : '' }}">Kontak Kami</a></li>
             </ul>

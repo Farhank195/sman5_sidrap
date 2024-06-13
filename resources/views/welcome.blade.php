@@ -84,7 +84,7 @@
                                 <div class="card border-secondary mb-3 border-opacity-25">
                                     <img src="{{ asset('img/events-item-1.jpg') }}" class="card-img-top" alt="">
                                     <div class="card-body">
-                                        <h4 class="card-title">Card title</h4>
+                                        <h4 class="card-title">berita 1</h4>
                                         <a href="#"
                                             class="card-text m-0 text-decoration-none stretched-link text-black">This is a
                                             wider bit longer.</a>
@@ -96,7 +96,7 @@
                                 <div class="card border-secondary mb-3 border-opacity-25">
                                     <img src="{{ asset('img/events-item-1.jpg') }}" class="card-img-top" alt="">
                                     <div class="card-body">
-                                        <h4 class="card-title">Card title</h4>
+                                        <h4 class="card-title">berita 2</h4>
                                         <a href="#"
                                             class="card-text m-0 text-decoration-none stretched-link text-black">This is a
                                             wider bit longer.</a>
@@ -108,7 +108,7 @@
                                 <div class="card border-secondary mb-3 border-opacity-25">
                                     <img src="{{ asset('img/events-item-1.jpg') }}" class="card-img-top" alt="">
                                     <div class="card-body">
-                                        <h4 class="card-title">Card title</h4>
+                                        <h4 class="card-title">berita 3</h4>
                                         <a href="#"
                                             class="card-text m-0 text-decoration-none stretched-link text-black">This is a
                                             wider bit longer.</a>
@@ -120,7 +120,7 @@
                                 <div class="card border-secondary mb-3 border-opacity-25">
                                     <img src="{{ asset('img/events-item-1.jpg') }}" class="card-img-top" alt="">
                                     <div class="card-body">
-                                        <h4 class="card-title">Card title</h4>
+                                        <h4 class="card-title">berita 4</h4>
                                         <a href="#"
                                             class="card-text m-0 text-decoration-none stretched-link text-black">This is a
                                             wider bit longer.</a>
